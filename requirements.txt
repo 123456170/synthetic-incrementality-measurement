@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+pydantic
+duckdb
+matplotlib
+opencv-python-headless
+pillow
